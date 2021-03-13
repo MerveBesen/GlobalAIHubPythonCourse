@@ -48,9 +48,3 @@ for x in applications:
     a = applications.get(x)
     for q,w in a.items():
         print(q, " : " , w)
-
-    
-    
-   
-
-
