@@ -11,12 +11,7 @@
 ## Project Name
 08.03.2021 Python Eğitimi
 
-## Requirements
-```
-Some python libraries
-Some python libraries
-Some python libraries
-```
+
 ---
 
 ### Certification
