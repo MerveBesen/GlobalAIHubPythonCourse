@@ -1,14 +1,14 @@
-# 08.03.2021 Python Eğitimi
+# 05.04.2021 Python Eğitimi
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021  
+**Course Date:** 05.04.2021  
 **Name:** Merve   
 **Surname:** Besen   
 **Email:** mervebesenn@gmail.com  
 
 
 ## Project Name
-08.03.2021 Python Eğitimi
+05.04.2021 Python Eğitimi
 
 
 ---
