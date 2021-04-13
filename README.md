@@ -14,5 +14,4 @@
 ---
 
 ### Certification
-![](img/certificate.png)
-
+![](img/25861904940665.png)
